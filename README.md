@@ -7,8 +7,8 @@ Appointment booking and low-stock ordering for Divine Care Pharmacy, Pesalai.
 From a terminal, run:
 
 ```sh
-git clone https://github.com/HamnaFazil/Divine-Care-Pharmacy.git
-cd Divine-Care-Pharmacy
+git clone https://github.com/HamnaFazil/divine-care-pharmacy.git
+cd divine-care-pharmacy
 git switch develop
 npm install
 npm run dev
